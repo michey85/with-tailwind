@@ -11,7 +11,7 @@ body {
 
 @layer components {
   .card {
-    @apply rounded-lg p-8;
+    @apply rounded-lg p-8 shadow-2xl;
   }
 
   .card-container-name {
